@@ -85200,6 +85200,7 @@
           <DefaultLangSys>
             <ReqFeatureIndex value="65535"/>
             <!-- FeatureCount=18 -->
+          <!--
             <FeatureIndex index="0" value="2"/>
             <FeatureIndex index="1" value="9"/>
             <FeatureIndex index="2" value="15"/>
@@ -85218,6 +85219,26 @@
             <FeatureIndex index="15" value="96"/>
             <FeatureIndex index="16" value="102"/>
             <FeatureIndex index="17" value="108"/>
+          -->
+            <FeatureIndex index="0" value="0"/>
+            <FeatureIndex index="1" value="6"/>
+            <FeatureIndex index="2" value="7"/>
+            <FeatureIndex index="3" value="13"/>
+            <FeatureIndex index="4" value="19"/>
+            <FeatureIndex index="5" value="25"/>
+            <FeatureIndex index="6" value="33"/>
+            <FeatureIndex index="7" value="39"/>
+            <FeatureIndex index="8" value="45"/>
+            <FeatureIndex index="9" value="51"/>
+            <FeatureIndex index="10" value="57"/>
+            <FeatureIndex index="11" value="63"/>
+            <FeatureIndex index="12" value="69"/>
+            <FeatureIndex index="13" value="75"/>
+            <FeatureIndex index="14" value="81"/>
+            <FeatureIndex index="15" value="87"/>
+            <FeatureIndex index="16" value="94"/>
+            <FeatureIndex index="17" value="100"/>
+            <FeatureIndex index="18" value="106"/>
           </DefaultLangSys>
           <!-- LangSysCount=2 -->
           <LangSysRecord index="0">
